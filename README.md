@@ -1,3 +1,4 @@
 # This is my first program.
 
-the
+theboy 
+the girl
